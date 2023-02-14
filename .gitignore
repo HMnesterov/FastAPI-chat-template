@@ -1,0 +1,6 @@
+/.idea/
+/venv
+/.gitignore
+/idea/
+/.venv/
+app/__pycache__/
